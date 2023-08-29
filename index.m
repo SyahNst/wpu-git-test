@@ -1,0 +1,1 @@
+syah = disp('Hello Word !')
